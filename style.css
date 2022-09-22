@@ -1,0 +1,47 @@
+body {
+    /* background-color:rgb(5, 3, 0);*/
+    background: linear-gradient(90deg, rgb(13, 72, 150), black);
+ }
+ h1{
+     color:white;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     width: 200%;
+ }
+ 
+ .maindiv{
+     width: 300px;
+     padding: 20px;
+     border-radius: 25px;
+     border-color: white;
+     color: white;
+     margin: auto;
+ }
+ 
+ .amount{
+     margin-bottom: 10px;
+ }
+ 
+ .rate{
+     margin-bottom: 10px;
+ }
+ 
+ .foter{
+     padding-top: 200px;
+     width: 200%;
+ }
+ 
+ .calcular__boton{
+    margin-top: 15px;
+    background: rgb(204, 87, 45);
+    border-radius: 5px;
+    color: black;
+ }
+ 
+ .info{
+     border-color: aqua;
+ }
+ 
+ .resulted{
+     padding-top: 18px;
+     padding: 18px;
+ }
